@@ -1,5 +1,5 @@
 # Verificación y Validación del Software 2021
-GRUPO IWx-4x ``<- Modificar``
+Alonso Díaz Navarro
 
 ## Instrucciones para utilizar este proyecto
 
@@ -8,3 +8,4 @@ GRUPO IWx-4x ``<- Modificar``
 * Descargar el proyecto utilizando git clone desde el terminal o desde el IDE.
 * Seguir las indicaciones del enunciado para realizar las pruebas de integración
 * Modificar este fichero añadiendo el número de grupo correspondiente y las instrucciones para ejecutar la práctica
+* Instalando el proyecto en el IDE, con MAVEN solo hace falta ejecutar el comando MAVEN de test
